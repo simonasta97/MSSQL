@@ -21,7 +21,7 @@ SELECT [FirstName], [MiddleName] ,[LastName] FROM Employees
 SELECT [FirstName] + '.' + [LastName] + '@softuni.bg' AS [Full Email Address]
 	FROM Employees
 
---7. Find All Different Employees’ Salaries
+--7. Find All Different Employeesâ€™ Salaries
 
 SELECT DISTINCT [Salary]
   FROM Employees
