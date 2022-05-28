@@ -127,7 +127,7 @@ SELECT [Name] AS [Game],
 	FROM GAMES
 	ORDER BY [Game] ASC, [Duration] ASC, [Part of the Day] ASC
 
--- Part IV – Date Functions Queries
+-- Part IV â€“ Date Functions Queries
 
 -- Problem 18. Orders Table
 
